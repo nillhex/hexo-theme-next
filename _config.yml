@@ -137,11 +137,13 @@ exturl: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 # External url should start with http:// or https://
 menu:
-  home: / || home
+  首页: / || home
+  Arduino系列: /guide-to-arduino/
   #about: /about/ || user
   #tags: /tags/ || tags
   #categories: /categories/ || th
-  archives: /archives/ || archive
+  归档: /archives/ || archive
+  
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
